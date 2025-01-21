@@ -1,0 +1,9 @@
+.red {
+background-color: red;
+width: 100vw;
+height: 300px;
+}
+
+body {
+    background-color: lightblue;
+  }
